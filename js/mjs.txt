@@ -1,1 +1,1 @@
-my new file contents
+bs=23.49456639, us=4312872.11745894
